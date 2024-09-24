@@ -1,0 +1,1 @@
+Polygenic Risk Score analysis using results from a Genome wide association study and myHeritage data. This is repository's aim is to show the python processing scripts, there is no sensible data expossed.
