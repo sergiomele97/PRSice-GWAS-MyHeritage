@@ -1,0 +1,17 @@
+# Ignorar todo
+*
+
+# No ignorar carpetas (para poder entrar en ellas y buscar archivos .py)
+!*/
+
+# Exceptuar los archivos .py en cualquier directorio
+!*.py
+
+# Exceptuar el propio .gitignore
+!.gitignore
+!plink_linux_x86_64_20201019.zip
+!PRSice.R
+!PRSice_win64.exe
+!gwas-association-downloaded_2024-09-22-accessionId_GCST90328131.tsv
+!dataset.txt
+!matches_gwas.txt
